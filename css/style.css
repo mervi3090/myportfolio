@@ -915,6 +915,10 @@ section {
   color: #fff;
 }
 
+.data {
+  display: flex;
+}
+
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
